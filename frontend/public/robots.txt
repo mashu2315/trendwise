@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Sitemap: ${process.env.VITE_FRONTEND_URL}/sitemap.xml
